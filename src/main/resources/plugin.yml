@@ -1,0 +1,7 @@
+name: DropAndEnchant
+version: 1.0
+main: AT.MSev.DropAndEnchant.DropAndEnchant
+permissions:
+    dropenchant.allowenchant:
+        description: Allows drop and enchant usage
+        default: true
